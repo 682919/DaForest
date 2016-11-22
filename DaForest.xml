@@ -1,1 +1,12 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="math_number" id="15" x="99" y="55">
+    <field name="NUM">0</field>
+  </block>
+  <block type="math_number" id="22" x="26" y="107">
+    <field name="NUM">0</field>
+  </block>
+  <block type="math_number" id="29" x="64" y="186">
+    <field name="NUM">0</field>
+  </block>
+  <block type="robot_delay" id="8" inline="true" x="263" y="237"></block>
+</xml>
