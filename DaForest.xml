@@ -1,12 +1,12 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="math_number" id="15" x="99" y="55">
+  <block type="math_number" id="1" x="99" y="55">
     <field name="NUM">0</field>
   </block>
-  <block type="math_number" id="22" x="26" y="107">
+  <block type="math_number" id="2" x="26" y="107">
     <field name="NUM">0</field>
   </block>
-  <block type="math_number" id="29" x="64" y="186">
+  <block type="math_number" id="3" x="64" y="186">
     <field name="NUM">0</field>
   </block>
-  <block type="robot_delay" id="8" inline="true" x="263" y="237"></block>
+  <block type="robot_delay" id="4" inline="true" x="263" y="237"></block>
 </xml>
