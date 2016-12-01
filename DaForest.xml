@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_drawtext" id="392" x="-908" y="-880">
+  <block type="oled_drawtext" id="392" x="-931" y="-840">
     <field name="TEXT">#2016CafeParty:)</field>
     <next>
       <block type="movement_forward" id="1">
